@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture notes with an introduction to database management tools.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/ab4a783729e616c6a0e685d1c7c6d01b_lect21.pdf
+file: /media/courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/ab4a783729e616c6a0e685d1c7c6d01b_lect21.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Part I of Lecture 2: Introduction to Database Management Tools'
 uid: ab4a7837-29e6-16c6-a0e6-85d1c7c6d01b

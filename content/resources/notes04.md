@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lab exercise on querying and analyzing census data.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/a08d6d5ee3f6e2c3a7490c8fb316e36e_notes04.pdf
+file: /media/courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/a08d6d5ee3f6e2c3a7490c8fb316e36e_notes04.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lab Exercise D: Working with Census Data '
 uid: a08d6d5e-e3f6-e2c3-a749-0c8fb316e36e
