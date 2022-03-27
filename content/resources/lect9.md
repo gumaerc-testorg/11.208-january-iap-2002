@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09d20aee-3e3b-ff6e-ee5f-89d41fcbedbc
 resourcetype: Document
 title: 'Lecture #9: GIS, Spatial Analysis and Internet Mapping '
 uid: 0e601539-3742-0349-7172-a5e2506285b2

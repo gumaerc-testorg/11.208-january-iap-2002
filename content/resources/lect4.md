@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09d20aee-3e3b-ff6e-ee5f-89d41fcbedbc
 resourcetype: Document
 title: "Lecture 4: More Microsoft Access\xAE and Relational Databases"
 uid: c828a621-1db9-7a30-902a-9a72680b5e2c

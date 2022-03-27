@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 45584099-1d3f-6eaf-685d-3132c779932b
 resourcetype: Document
 title: 'Lab Exercise E: Working with Census Data II '
 uid: a32763f1-e289-513e-1ca7-b99c0fb6fb28

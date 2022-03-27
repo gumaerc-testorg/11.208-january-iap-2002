@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09d20aee-3e3b-ff6e-ee5f-89d41fcbedbc
 resourcetype: Document
 title: 'Making Sense of the Census, Part II: Working with Census Data'
 uid: 296fce7e-4c86-1914-13a1-7b80bcd92760

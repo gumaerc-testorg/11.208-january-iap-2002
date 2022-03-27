@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09d20aee-3e3b-ff6e-ee5f-89d41fcbedbc
 resourcetype: Document
 title: 'Relational Database Design: Rules of Thumb'
 uid: 55d4d35e-43e7-6e25-544d-c7917565a71b

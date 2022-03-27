@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09d20aee-3e3b-ff6e-ee5f-89d41fcbedbc
 resourcetype: Document
 title: 'Relational Database Design: Database Design Principles '
 uid: f61e0986-41cd-8231-afd2-26e8658026a3

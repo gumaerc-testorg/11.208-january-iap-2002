@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 45584099-1d3f-6eaf-685d-3132c779932b
 resourcetype: Document
 title: 'Lab Assignment D: Working with Census Data I'
 uid: 4c77ce1e-03b0-503b-4206-8b01fff5458a

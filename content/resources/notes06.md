@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 45584099-1d3f-6eaf-685d-3132c779932b
 resourcetype: Document
 title: 'Lab Exercise F: Preparing Effective Maps'
 uid: 30f5b5f3-02d3-f697-4765-106719e52111

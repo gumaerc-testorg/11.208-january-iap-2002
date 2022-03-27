@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09d20aee-3e3b-ff6e-ee5f-89d41fcbedbc
 resourcetype: Document
 title: 'GIS: More Than Just Pretty Maps '
 uid: ac8ef53d-67bf-a9ee-7912-c19043dd6e13

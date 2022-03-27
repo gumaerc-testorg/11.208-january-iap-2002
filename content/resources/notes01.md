@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 45584099-1d3f-6eaf-685d-3132c779932b
 resourcetype: Document
 title: 'Lab Exercise A: Introduction to Thematic Mapping'
 uid: 7848c031-4708-2449-9354-7a487ce139e1

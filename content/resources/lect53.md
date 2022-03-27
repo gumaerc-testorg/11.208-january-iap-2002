@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09d20aee-3e3b-ff6e-ee5f-89d41fcbedbc
 resourcetype: Document
 title: 'Relational Database Design: A Solution for the Cambridge Fire Department'
 uid: 2d176c8a-7d5d-0836-4f2a-1f5701e12421

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 45584099-1d3f-6eaf-685d-3132c779932b
 resourcetype: Document
 title: 'Lab Assignment C: Intermediate Database Queries'
 uid: f141e0b6-0ef9-f35e-3f58-556919a00d65

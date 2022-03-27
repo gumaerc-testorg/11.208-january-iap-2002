@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 45584099-1d3f-6eaf-685d-3132c779932b
 resourcetype: Document
 title: 'Lab Exercise C: Intermediate Database Queries'
 uid: 3bde7a6a-e2c3-1fe9-424d-395ccb6d9eec

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 45584099-1d3f-6eaf-685d-3132c779932b
 resourcetype: Document
 title: 'Lab Exercise G: Web Mapping Resources and Basic Spatial Analysis'
 uid: 10f1b40b-5025-fe2f-2e2c-b5621b2eba0d

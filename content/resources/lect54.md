@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09d20aee-3e3b-ff6e-ee5f-89d41fcbedbc
 resourcetype: Document
 title: 'Relational Database Design: Discussion: The "Parcels" Database'
 uid: cf265ca0-96c2-2c14-bf0e-53558a872b11

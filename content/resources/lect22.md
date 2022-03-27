@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09d20aee-3e3b-ff6e-ee5f-89d41fcbedbc
 resourcetype: Document
 title: 'Part II of Lecture 2: Introduction to Database Management Tools'
 uid: 510f1a46-f5b6-a0ea-3188-4791633297d1
