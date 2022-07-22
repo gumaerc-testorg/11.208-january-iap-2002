@@ -5,6 +5,7 @@ file: /courses/11-208-introduction-to-computers-in-public-management-ii-january-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lab Exercise G: Web Mapping Resources and Basic Spatial Analysis'
 uid: 10f1b40b-5025-fe2f-2e2c-b5621b2eba0d
 ---
 Lab exercise on web mapping resources and basic spatial analysis.
-

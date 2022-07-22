@@ -5,6 +5,7 @@ file: /courses/11-208-introduction-to-computers-in-public-management-ii-january-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lab Exercise F: Preparing Effective Maps'
 uid: 30f5b5f3-02d3-f697-4765-106719e52111
 ---
 Lab exercise on preparing effective maps.
-

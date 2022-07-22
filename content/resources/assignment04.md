@@ -5,6 +5,7 @@ file: /courses/11-208-introduction-to-computers-in-public-management-ii-january-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lab Assignment D: Working with Census Data I'
 uid: 4c77ce1e-03b0-503b-4206-8b01fff5458a
 ---
 Lab assignment on querying and analyzing census data.
-

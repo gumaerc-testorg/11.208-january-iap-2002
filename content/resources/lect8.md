@@ -5,6 +5,7 @@ file: /courses/11-208-introduction-to-computers-in-public-management-ii-january-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Preparing Effective Maps
 uid: 8bf92276-a322-2e09-78c6-de648e7c3056
 ---
 Lecture notes on preparing effective maps.
-

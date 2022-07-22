@@ -6,6 +6,7 @@ file: /courses/11-208-introduction-to-computers-in-public-management-ii-january-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Making Sense of the Census, Part II: Working with Census Data'
 uid: 296fce7e-4c86-1914-13a1-7b80bcd92760
 ---
 Lecture notes on extracting census data and and producing a map that display them.
-

@@ -5,6 +5,7 @@ file: /courses/11-208-introduction-to-computers-in-public-management-ii-january-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lab Assignment C: Intermediate Database Queries'
 uid: f141e0b6-0ef9-f35e-3f58-556919a00d65
 ---
 Lab assignment on intermediate database queries.
-

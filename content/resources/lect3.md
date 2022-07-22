@@ -6,6 +6,7 @@ file: /courses/11-208-introduction-to-computers-in-public-management-ii-january-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Making Sense of the Census, Part I: Introduction to the U.S. Census of P
 uid: 93ee4b6f-c73e-deda-9437-0b1fdd377751
 ---
 Lecture notes with an introduction to the U.S. Census of Population and Housing.
-

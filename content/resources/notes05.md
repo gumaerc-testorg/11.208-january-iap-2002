@@ -5,6 +5,7 @@ file: /courses/11-208-introduction-to-computers-in-public-management-ii-january-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lab Exercise E: Working with Census Data II '
 uid: a32763f1-e289-513e-1ca7-b99c0fb6fb28
 ---
 Lab exercise on extracting and analyzing census data from STF files.
-

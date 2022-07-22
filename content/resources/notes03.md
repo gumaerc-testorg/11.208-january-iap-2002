@@ -5,6 +5,7 @@ file: /courses/11-208-introduction-to-computers-in-public-management-ii-january-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lab Exercise C: Intermediate Database Queries'
 uid: 3bde7a6a-e2c3-1fe9-424d-395ccb6d9eec
 ---
 Lab exercise on intermediate database queries.
-

@@ -6,6 +6,7 @@ file: /courses/11-208-introduction-to-computers-in-public-management-ii-january-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Lecture 4: More Microsoft Access\xAE and Relational Databases"
 uid: c828a621-1db9-7a30-902a-9a72680b5e2c
 ---
 Lecture notes with an introduction to the relational database model and intermediate queries (aggregation/grouping functions and multi-table queries). 
-

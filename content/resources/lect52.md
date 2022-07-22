@@ -6,6 +6,7 @@ file: /courses/11-208-introduction-to-computers-in-public-management-ii-january-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,5 +16,3 @@ title: 'Relational Database Design: Database Design Principles '
 uid: f61e0986-41cd-8231-afd2-26e8658026a3
 ---
 Lecture notes on database design principles, relational databases, and entity-relationship modeling.
-
-
