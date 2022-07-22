@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides lab notes and assignments.
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: 45584099-1d3f-6eaf-685d-3132c779932b
 ---
@@ -25,7 +29,7 @@ Assignments
 Introduction to Thematic Mapping
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/notes01))
+({{% resource_link 7848c031-4708-2449-9354-7a487ce139e1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -37,7 +41,7 @@ Introduction to Thematic Mapping
 Elementary Database Management
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/notes02))
+({{% resource_link 40a1ab1e-f484-5ecc-9ce4-713bbe9edddf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -49,10 +53,10 @@ Elementary Database Management
 Intermediate Database Queries
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/notes03))
+({{% resource_link 3bde7a6a-e2c3-1fe9-424d-395ccb6d9eec "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assignment03))
+({{% resource_link f141e0b6-0ef9-f35e-3f58-556919a00d65 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,10 +65,10 @@ Intermediate Database Queries
 Working with Census Data I: Querying and Analyzing Census Data
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/notes04))
+({{% resource_link a08d6d5e-e3f6-e2c3-a749-0c8fb316e36e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/notes05))
+({{% resource_link a32763f1-e289-513e-1ca7-b99c0fb6fb28 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +77,7 @@ Working with Census Data I: Querying and Analyzing Census Data
 Working with Census Data II: Extracting Census Data from U.S. Census STF Tables
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/notes05))
+({{% resource_link a32763f1-e289-513e-1ca7-b99c0fb6fb28 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -85,7 +89,7 @@ Working with Census Data II: Extracting Census Data from U.S. Census STF Tables
 Preparing Effective Maps
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/notes06))
+({{% resource_link 30f5b5f3-02d3-f697-4765-106719e52111 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -97,10 +101,10 @@ Preparing Effective Maps
 Web Mapping Resources and Basic Spatial Analysis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/notes07))
+({{% resource_link cae8ae4e-af38-9bfe-3a88-fe9fbc70dec7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assignment07))
+({{% resource_link 10f1b40b-5025-fe2f-2e2c-b5621b2eba0d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
