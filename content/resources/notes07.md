@@ -2,7 +2,7 @@
 content_type: resource
 description: Notes accompanying a lab exercise on web mapping resources and basic
   spatial analysis.
-file: /courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/cae8ae4eaf389bfe3a88fe9fbc70dec7_notes07.pdf
+file: /ol-ocw-studio-app/courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/cae8ae4eaf389bfe3a88fe9fbc70dec7_notes07.pdf
 file_size: 742463
 file_type: application/pdf
 learning_resource_types:

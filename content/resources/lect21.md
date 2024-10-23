@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes with an introduction to database management tools.
-file: /courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/ab4a783729e616c6a0e685d1c7c6d01b_lect21.pdf
+file: /ol-ocw-studio-app/courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/ab4a783729e616c6a0e685d1c7c6d01b_lect21.pdf
 file_size: 64761
 file_type: application/pdf
 learning_resource_types:
