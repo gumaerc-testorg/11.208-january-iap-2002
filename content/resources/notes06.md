@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lab exercise on preparing effective maps.
-file: /ol-ocw-studio-app/courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/30f5b5f302d3f6974765106719e52111_notes06.pdf
+file: /courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/30f5b5f302d3f6974765106719e52111_notes06.pdf
 file_size: 836764
 file_type: application/pdf
 learning_resource_types:
