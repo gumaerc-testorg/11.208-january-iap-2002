@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on extracting census data and and producing a map that
   display them.
-file: /courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/296fce7e4c86191413a17b80bcd92760_lect7.pdf
+file: /ol-ocw-studio-app/courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/296fce7e4c86191413a17b80bcd92760_lect7.pdf
 file_size: 278791
 file_type: application/pdf
 learning_resource_types:
